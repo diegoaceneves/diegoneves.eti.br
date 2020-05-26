@@ -23,11 +23,13 @@ DefaultContentLanguageInSubdir = true
 
 [params]
   # Shown in the home page
+  home = "Home"
   truncate = true
-  defaultDescription = "Sharing the code"
-  hideReadingTime = false
+  defaultDescription = "Deploying a better new world"
+  hideReadingTime = true
   theme = "theme-base-07"
   googleAnalytics = "UA-167610562-1"
+  gravatarHash = "4ccb418dfbd778da7d91e1d619247917"
   github = "https://github.com/diegoaceneves"
   bitbucket = ""
   stackOverflow = ""
@@ -36,22 +38,20 @@ DefaultContentLanguageInSubdir = true
   facebook = "https://fb.me/diegoaceneves"
   twitter = "https://twitter.com/diegoaceneves"
   youtube = ""
-
-[social]
-  instagram = "diegoaceneves"
+  rss = true
 
   [menu]
     # Shown in the side menu.
     [[menu.main]]
       name = "Home"
       pre = "<i class='fa fa-home fa-fw'></i>"
-      weight = 0
+      weight = 1
       identifier = "home"
       url = "/"
     [[menu.main]]
       name = "Posts"
-      pre = "<i class='fa fa-blog fa-fw'></i>"
-      weight = 0
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 2
       identifier = "posts"
       url = "/posts"
     [[menu.main]]
@@ -62,7 +62,7 @@ DefaultContentLanguageInSubdir = true
       url = "/about/"
     [[menu.main]]
       name = "Curriculo"
-      pre = "<i class='fa fa-blog fa-fw'></i>"
-      weight = 0
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 4
       identifier = "curriculo"
       url = "/curriculo"

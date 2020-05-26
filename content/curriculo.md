@@ -7,7 +7,6 @@ draft: false
 # DIEGO FREDERICO MARQUES NEVES
 ## Dados Pessoais:
 * Data de nascimento: 23/03/1988
-* Estado civil: União Estável
 * Local: Teófilo Otoni/MG
 * E-mail: diego [AT] diegoneves [DOT] eti [DOT] br
 
@@ -19,18 +18,18 @@ draft: false
     * Analizar e implantar tecnologias de infraestrutura de forma segura;
     * Verificar e manter ambiente de desenvolvimento, testes, homologação e produção;
     * Analizar, propor e implantar tecnologias de automação de tarefas.
+
 * Administrador de Servidores da Latinoware. - Setembro 2014 - Atualmente.
+
 * Consultor de Tecnologia – Maio 2008 – Atualmente:
     * Sysadmin;
     * DevOps;
     * Redes;
 * Coordenador de Redes e Desenvolvimento - Departamento de Tecnologia da Informação - [Prefeitura Municipal de Teófilo Otoni](http://teofilootoni.mg.gov.br) - Setembro 2019 - Maio 2020.
-    * Coordenar equipe de Redes de Computadores;
-    * Coordenar equipe de Desenvolvimento de Sistemas;
+    * Coordenar equipe de Redes de Computadores e Desenvolvimento de Sistemas;
     * Elaborar e atualizar especificações técnicas para a compra de novos equipamentos;
-    * Instalar, configurar e administrar servidores GNU/Linux (físicos e virtuais);
-    * Instalar, configurar e administrar equipamentos e ativos de rede;
-    * Planejar, implantar e configurar rede wifi centralizada com equipamentos Ubiquit;
+    * Instalar, configurar e administrar servidores GNU/Linux (físicos e virtuais), equipamentos e ativos de rede;
+    * Planejar, implantar e configurar rede wifi centralizada com equipamentos Ubiquiti;
     * Monitorar e manter a infraestrutura de conectividade em condições de operacionalidade;
     * Aplicar atualizações e correções de segurança nos sistemas operacionais e softwares instalados;
     * Instalar, configurar, manter e controlar a performance de servidores para ambientes de produção, desenvolvimento e teste;
@@ -50,9 +49,8 @@ draft: false
     * Implantação de sistemas de controle, ticket, relatórios e monitoramento.
 * Assessor de Informática - Central de Processamento de Dados - [Prefeitura Municipal de Teófilo Otoni](http://teofilootoni.mg.gov.br) - Abril 2017 - Fevereiro 2018.
     * Elaborar e atualizar especificações técnicas para a compra de novos equipamentos;
-    * Instalar, configurar e administrar servidores GNU/Linux (físicos e virtuais);
-    * Instalar, configurar e administrar equipamentos e ativos de rede;
-    * Planejar, implantar e configurar rede wifi centralizada com equipamentos Ubiquit;
+    * Instalar, configurar e administrar servidores GNU/Linux (físicos e virtuais), equipamentos e ativos de rede;
+    * Planejar, implantar e configurar rede wifi centralizada com equipamentos Ubiquiti;
     * Monitorar e manter a infraestrutura de conectividade em condições de operacionalidade;
     * Aplicar atualizações e correções de segurança nos sistemas operacionais e softwares instalados;
     * Instalar, configurar, manter e controlar a performance de servidores para ambientes de produção, desenvolvimento e teste;
@@ -62,8 +60,7 @@ draft: false
     * Planejar e organizar atividades para otimizar a utilização de equipe de trabalho disponível na área;
 * Analista de Suporte Técnico - [Fundação Parque Tecnologico Itaipu Brasil - FPTI-BR](https://pti.org.br) - Setembro 2014 - Fevereiro 2017.
     * Elaborar e atualizar especificações técnicas para a compra de novos equipamentos;
-    * Instalar, configurar e administrar servidores GNU/Linux (físicos e virtuais);
-    * Instalar, configurar e administrar equipamentos e ativos de rede;
+    * Instalar, configurar e administrar servidores GNU/Linux (físicos e virtuais), equipamentos e ativos de rede;
     * Monitorar e manter a infraestrutura de conectividade em condições de operacionalidade;
     * Aplicar atualizações e correções de segurança nos sistemas operacionais e softwares instalados;
     * Instalar, configurar, manter e controlar a performance de servidores para ambientes de produção, desenvolvimento e teste;
@@ -136,15 +133,17 @@ draft: false
 * 9° FGSL - Fórum Goiano de Software Livre - Goiânia/GO - 31 de Novembro e 01 de Dezembro de 2012.
 * Latinoware 2012 – Foz do Iguaçu/PR – 17-19 de Outubro de 2012.
 * Latinoware 2011 – Foz do Iguaçu/PR – 19-21 de Outubro de 2011.
-* Curso "Expremendo" Expressamente as Expressões Regulares – Julio Neves - Latinoware 2010 – Foz do Iguaçu/PR – 10 de Novembro de 2010.
-* Curso Forense Post Morten – Sandro Melo - Latinoware 2010 – Foz do Iguaçu/PR – 12 de Novembro de 2010.
 * Latinoware 2010 – Foz do Iguaçu/PR – 10-12 de Novembro de 2010.
-* Curso HLBR - Latinoware 2009 – Foz do Iguaçu/PR 23 de Outubro de 2009.
+    * Curso "Expremendo" Expressamente as Expressões Regulares – Julio Neves - 10 de Novembro de 2010.
+    * Curso Forense Post Morten – Sandro Melo - 12 de Novembro de 2010.
 * Latinoware 2009 – Foz do Iguaçu/PR – 22-24 de Outubro de 2009.
+    Curso HLBR - 23 de Outubro de 2009.
 
 ## Eventos Ministrados:
 * Palestrante Convidado - Latinoware 2019:
 	* [Git4Sysadmins]
+* Palestrante Convidado - [MeetUp GDG Foz do Iguaçu](https://www.meetup.com/pt-BR/GDG-Foz-do-Iguacu/events/262780229/) - 18 de Julho 2019:
+    * [Hackeando Cérebros - Explorando o elo mais fraco da segurança](https://www.slideshare.net/GDGFoz/hackeando-crebros-explorando-o-elo-mais-fraco-da-segurana).
 * Palestrante Convidado - Latinoware 2018:
 	* [Telegram API 4 !DEVs]
 * Palestrante Convidado - Latinoware 2017:
@@ -208,17 +207,12 @@ draft: false
 ## Conhecimentos em Informática:
 * Administração de Servidores Linux;
 * Docker
-* Mikrotik;
-* Administração de Redes;
-* Firewall;
-* Programação PHP avançado;
-* Programação Python - Django Intermediário;
-* Programação C Avançada;
 * Programação Shell Script Intermediário;
-* Banco de dados MySQL.
+* Administração de Redes;
+* Firewall.
 
 ## Idiomas:
-* Inglês: Lê Bem, Fala Razoavelmente, Escuta Razoavelmente;
+* Inglês: Lê Bem, Fala Bem, Escuta Bem;
 * Espanhol: Lê Bem, Fala Razoavelmente, Escuta Razoavelmente;
 
 [Racktables]:http://racktables.org
