@@ -62,9 +62,3 @@ disqusShortname = "diegoaceneves"
       weight = 4
       identifier = "curriculo"
       url = "/curriculo"
-    [[menu.footer]]
-      name = "Curriculo"
-      pre = "<i class='fa fa-list fa-fw'></i>"
-      weight = 4
-      identifier = "curriculo"
-      url = "/curriculo"
