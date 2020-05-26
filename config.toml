@@ -1,0 +1,54 @@
+baseURL = "https://diegoneves.eti.br"
+languageCode = "en-us"
+title = "My New Site"
+theme = "hyde-x"
+copyright = "&copy; 2012. Some rights reserved."
+canonifyurls = true
+paginate = 10
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+
+[author]
+    name = "Diego Neves"
+    homepage = "https://diegoneves.eti.br"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/:year/:month/:day/:title"
+
+[taxonomies]
+  tag = "tags"
+  topic = "categories"
+
+[params]
+  # Shown in the home page
+  truncate = true
+  defaultDescription = "Sharing the code"
+  hideReadingTime = false
+  theme = "theme-base-07"
+  googleAnalytics = "UA-111345881-1"
+  home = "Home"
+  github = "https://github.com/diegoaceneves"
+  bitbucket = ""
+  stackOverflow = ""
+  linkedin = "https://www.linkedin.com/in/diegoaceneves/"
+  googleplus = ""
+  facebook = "https://fb.me/diegoaceneves"
+  twitter = "https://twitter.com/diegoaceneves"
+  youtube = ""
+
+  [menu]
+    # Shown in the side menu.
+    [[menu.main]]
+      name = "Home"
+      pre = "<i class='fa fa-home fa-fw'></i>"
+      weight = 0
+      identifier = "home"
+      url = "/"
+    [[menu.main]]
+      name = "About"
+      pre = "<i class='fa fa-user fa-fw'></i>"
+      weight = 3
+      identifier = "about"
+      url = "/about/"
