@@ -1,44 +1,40 @@
 baseURL = "https://diegoneves.eti.br"
 languageCode = "en-us"
-title = "My New Site"
+title = "Deploying a better new world"
 theme = "hyde-x"
-copyright = "&copy; 2012. Some rights reserved."
+gravatarHash = "4ccb418dfbd778da7d91e1d619247917"
 canonifyurls = true
 paginate = 10
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
+RegularPages = "posts"
+disqusShortname = "diegoaceneves"
 
 [author]
-    name = "Diego Neves"
-    homepage = "https://diegoneves.eti.br"
+  name = "Diego Neves"
+  homepage = "https://diegoneves.eti.br"
 
 [permalinks]
-    # Optional. Change the permalink format for the 'post' content type.
-    # The format shown here is the same one Jekyll/Octopress uses by default.
-    post = "/:year/:month/:day/:title"
+  post = "/:year/:month/:day/:title"
 
 [taxonomies]
   tag = "tags"
   topic = "categories"
 
 [params]
-  # Shown in the home page
-  home = "Home"
-  truncate = true
+  truncate = "true"
+  copyright = "Some rights reserved, Copyright 2012"
   defaultDescription = "Deploying a better new world"
-  hideReadingTime = true
   theme = "theme-base-07"
   googleAnalytics = "UA-167610562-1"
-  gravatarHash = "4ccb418dfbd778da7d91e1d619247917"
   github = "https://github.com/diegoaceneves"
-  bitbucket = ""
-  stackOverflow = ""
   linkedin = "https://www.linkedin.com/in/diegoaceneves/"
   instagram = "https://instagram.com/diegoaceneves/"
   facebook = "https://fb.me/diegoaceneves"
   twitter = "https://twitter.com/diegoaceneves"
-  youtube = ""
-  rss = true
+  telegram = "https://t.me/diegoaceneves"
+  githubrepo = "diegoaceneves/diegoneves.eti.br"
+  rss = "true"
 
   [menu]
     # Shown in the side menu.
@@ -61,6 +57,12 @@ DefaultContentLanguageInSubdir = true
       identifier = "about"
       url = "/about/"
     [[menu.main]]
+      name = "Curriculo"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 4
+      identifier = "curriculo"
+      url = "/curriculo"
+    [[menu.footer]]
       name = "Curriculo"
       pre = "<i class='fa fa-list fa-fw'></i>"
       weight = 4

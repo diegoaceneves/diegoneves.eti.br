@@ -5,3 +5,9 @@
 	path = public
 	url = git@github.com:diegoaceneves/diegoaceneves.github.io.git
 	branch = master
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
