@@ -27,16 +27,18 @@ DefaultContentLanguageInSubdir = true
   defaultDescription = "Sharing the code"
   hideReadingTime = false
   theme = "theme-base-07"
-  googleAnalytics = "UA-111345881-1"
-  home = "Home"
+  googleAnalytics = "UA-167610562-1"
   github = "https://github.com/diegoaceneves"
   bitbucket = ""
   stackOverflow = ""
   linkedin = "https://www.linkedin.com/in/diegoaceneves/"
-  googleplus = ""
+  instagram = "https://instagram.com/diegoaceneves/"
   facebook = "https://fb.me/diegoaceneves"
   twitter = "https://twitter.com/diegoaceneves"
   youtube = ""
+
+[social]
+  instagram = "diegoaceneves"
 
   [menu]
     # Shown in the side menu.
@@ -47,8 +49,20 @@ DefaultContentLanguageInSubdir = true
       identifier = "home"
       url = "/"
     [[menu.main]]
+      name = "Posts"
+      pre = "<i class='fa fa-blog fa-fw'></i>"
+      weight = 0
+      identifier = "posts"
+      url = "/posts"
+    [[menu.main]]
       name = "About"
       pre = "<i class='fa fa-user fa-fw'></i>"
       weight = 3
       identifier = "about"
       url = "/about/"
+    [[menu.main]]
+      name = "Curriculo"
+      pre = "<i class='fa fa-blog fa-fw'></i>"
+      weight = 0
+      identifier = "curriculo"
+      url = "/curriculo"
