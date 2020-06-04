@@ -9,7 +9,7 @@ Vou escrever uma série de textos sobre o caminho que já percorri desde o iníc
 
 Há muito tempo atrás, numa galaxia muito distante, nascia durante o estágio no primeiro periódo da faculdade de Sistemas de Informação, o SysAdmin. Super empolgado com o fato de poder compilar todo  código fonte disponível na internet, passou a ter sempre o [kernel](https://www.kernel.org/) mais atual e compilar o [iptables](https://pt.wikipedia.org/wiki/Iptables) para ativar os filtros de layer 7 no recém lançado [Debian](https://debian.org) Sarge, tudo isso, graças ao [Guia Foca](https://guiafoca.org/) e aos milhares de artigos no site [Viva o Linux](https://www.vivaolinux.com.br/).
 
-Em uma época que começou a surgir "conexões de banda larga", com conexões de internet "super velozes" com 150kbps de download e 50 de upload ter um [Squid]http://www.squid-cache.org/ com proxy transparente era necessário pra que toda empresa pudesse acessar a internet.
+Em uma época que começou a surgir "conexões de banda larga", com conexões de internet "super velozes" com 150kbps de download e 50 de upload ter um [Squid](http://www.squid-cache.org/) com proxy transparente era necessário pra que toda empresa pudesse acessar a internet.
 
 Anos se passaram e as velhas estações de trabalho usadas como servidores começaram a ser substituidas por maquinas virtuais, os hubs ethernet e os switchs fast a ser substituidos por redes gigabit e os ativos passaram a ser monitorados com [Zabbix](https://www.zabbix.com/).
 
