@@ -12,7 +12,7 @@ draft: false
 
 ## Experiência Profissional:
 
-* COO (Chief Operations Officer) - [Security Solutions](http://securitysolutions.global/) - Abril 2018 - Atualmente:
+* CTO (Chief Technology Officer) - [Cyb3r Security Operations ](https://br.cyb3rsec.com/) - Abril 2018 - Atualmente:
     * Projetar e Implantar Infraestrutura de Servidores;
     * Coordenar equipe de Implantação;
     * Analizar e implantar tecnologias de infraestrutura de forma segura;
@@ -25,6 +25,7 @@ draft: false
     * Sysadmin;
     * DevOps;
     * Redes;
+
 * Coordenador de Redes e Desenvolvimento - Departamento de Tecnologia da Informação - [Prefeitura Municipal de Teófilo Otoni](http://teofilootoni.mg.gov.br) - Setembro 2019 - Maio 2020.
     * Coordenar equipe de Redes de Computadores e Desenvolvimento de Sistemas;
     * Elaborar e atualizar especificações técnicas para a compra de novos equipamentos;
@@ -108,6 +109,8 @@ draft: false
 * Superior Completo, Bacharel em Sistemas de Informação – Faculdades Doctum – Teófilo Otoni/MG – 2010.
 
 ## Formação Complementar:
+* LinuxTips - [Descomplicando o Istio](https://www.credential.net/1d5d4d4e-d06b-4678-887a-2469ac232f57)
+* LinuxTips - [Descomplicando Kubernetes](https://www.credential.net/9900419a-12f6-4e4e-86c7-f800d0d205e5)
 * LinuxTips - [Descomplicando Docker](https://www.credential.net/6c464766-b7b4-47ab-b176-fa4c07872346)
 * Udemy - [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/);
 * Udemy - [Cisco CCNA Data Center Completo (DCICN + DCICT)](https://www.udemy.com/course/cisco-ccna-data-center-completo-dcicn-dcict/);
@@ -177,10 +180,6 @@ draft: false
     * Palestra: "Você esta seguro?" Faculdades Doctum – Novembro de 2009.
 * Mini-Curso: "Introdução ao Desenvolvimento Web" Faculdades Doctum– Novembro de 2009.
 
-## Méritos:
-* 2° Lugar – Etapa Regional – Maratona de Programação – SBC – Realizada na Univale/GV – Outubro de 2010.
-* Mérito Acadêmico – Faculdades Unificadas Doctum – Campus Teófilo Otoni/MG – Junho – 2009.
-
 ## Publicações:
 * Artigo "[Hackeando Cérebros: O Problema do Mundo São As Pessoas]" [Revista Espírito Livre Ed 57] – Dezembro de 2013.
 * Artigo "[Gerenciando SWAP Em Arquivo]" [Revista Espírito Livre Ed 57] – Dezembro de 2013.
@@ -206,7 +205,8 @@ draft: false
 
 ## Conhecimentos em Informática:
 * Administração de Servidores Linux;
-* Docker
+* Docker;
+* Zabbix;
 * Programação Shell Script Intermediário;
 * Administração de Redes;
 * Firewall.

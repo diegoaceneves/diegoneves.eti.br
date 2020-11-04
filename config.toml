@@ -51,14 +51,32 @@ disqusShortname = "diegoaceneves"
       identifier = "posts"
       url = "/posts"
     [[menu.main]]
+      name = "Portugês"
+      pre = "<i class='fa fa-globe fa-fw'></i>"
+      weight = 3
+      identifier = "Portuges"
+      url = "/categories/portugês/"
+    [[menu.main]]
+      name = "English"
+      pre = "<i class='fa fa-globe fa-fw'></i>"
+      weight = 4
+      identifier = "English"
+      url = "/categories/english/"
+    [[menu.main]]
       name = "About"
       pre = "<i class='fa fa-user fa-fw'></i>"
-      weight = 3
+      weight = 7
       identifier = "about"
       url = "/about/"
     [[menu.main]]
-      name = "Curriculo"
+      name = "Curriculum en_US"
       pre = "<i class='fa fa-list fa-fw'></i>"
-      weight = 4
+      weight = 10
+      identifier = "curriculum"
+      url = "/curriculum"
+    [[menu.main]]
+      name = "Curriculo pt_BR"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 11
       identifier = "curriculo"
       url = "/curriculo"
