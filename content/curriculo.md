@@ -19,8 +19,6 @@ draft: false
     * Verificar e manter ambiente de desenvolvimento, testes, homologação e produção;
     * Analizar, propor e implantar tecnologias de automação de tarefas.
 
-* Administrador de Servidores da Latinoware. - Setembro 2014 - Atualmente.
-
 * Consultor de Tecnologia – Maio 2008 – Atualmente:
     * Sysadmin;
     * DevOps;
@@ -38,6 +36,9 @@ draft: false
     * Aplicar e manter procedimentos internos da área em relação à infraestrutura de rede, como operação e documentação de serviços e servidores, backup e recuperação de dados, criação e alteração de contas de domínio, políticas de segurança, entre outros;
     * Prestar suporte aos usuários finais e equipe interna, identificando e solucionando problemas;
     * Planejar e organizar atividades para otimizar a utilização de equipe de trabalho disponível na área;
+
+* Administrador de Servidores da Latinoware. - Setembro 2014 - Novembro 2019.
+
 * Analista de Suporte Técnico - [Gametec S.A](http://atacadogames.com). - Ciudad Del Est, PY - Junho 2018 - Novembro 2018.
     * Implantar e Reestruturar infraestrutura de TI;
     * Gerenciar equipe de Suporte Técnico ao Usuário;

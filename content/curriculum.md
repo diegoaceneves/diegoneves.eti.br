@@ -17,8 +17,6 @@ draft: false
     * Check and maintain the development, testing, approval and production environment;
     * Deploy task automation technologies.
 
-* Server Administrador - [Latinoware](http://latinoware.org) - September 2014 - Present.
-
 * IT Consultant - May 2008 - Present:
     * Sysadmin;
     * DevOps;
@@ -30,7 +28,9 @@ draft: false
     * Install, configure and manage GNU/Linux servers (physical and virtual), equipment and network assets;
     * Monitor and maintain the connectivity infrastructure in operational conditions;
     * Apply security updates and patches to installed operating systems and software;
-    
+
+* Server Administrador - [Latinoware](http://latinoware.org) - September 2014 - November 2019.
+
 * IT Support Analyst - [Gametec S.A](http://atacadogames.com). - Ciudad Del Est, PY - June 2018 - November 2018.
     * Deploy and Restructure IT infrastructure;
     * Manage Technical User Support team;
